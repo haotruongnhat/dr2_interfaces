@@ -6,3 +6,8 @@ scipy==1.4.1
 setuptools==40.8.0
 pyinstaller==3.6
 scikit-learn==0.23.2
+
+pyvjoy
+keyboard
+pyttsx3
+pypiwin32
